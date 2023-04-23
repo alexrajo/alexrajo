@@ -1,4 +1,4 @@
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{alexrajo}1212%2Fhit-counter)
+![](https://visitor-badge.glitch.me/badge?page_id=alexrajo.alexrajo)
 
 Hello! I am a 20 year old CS student with way too many hobbies for their own good.
 
