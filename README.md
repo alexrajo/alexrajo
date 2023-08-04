@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=alexrajo.alexrajo)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=alexrajo.alexrajo)
 
 Hello! I am a 20 year old CS student with a passion for game development and web development.
 
