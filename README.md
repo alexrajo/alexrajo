@@ -1,6 +1,6 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=alexrajo.alexrajo) -->
 
-Hello! I am a 20 year old CS student with a passion for game development and web development.
+Hello! I am a 21 year old CS student with a passion for game development and web development.
 
 #### What am I doing right now?
 I am continuously working on maintaining and developing games. I am also honing my web development skills, both in regards to frontend and backend. Right now I am in the process of developing a full stack, cross platform mobile application.
@@ -21,3 +21,5 @@ I am continuously working on maintaining and developing games. I am also honing 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Burger%20King-D62300?style=for-the-badge&logo=Burger%20King&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexarj&count_private=true&show_icons=true&theme=tokyonight)
