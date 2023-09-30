@@ -3,7 +3,7 @@
 Hello! I am a 21 year old CS student with a passion for game, web and mobile app development.
 
 #### What am I doing right now?
-I am continuously working on maintaining and developing games. I am also honing my web and mobile app development skills, both in regards to frontend and backend. Right now I am in the process of developing a full stack, cross platform mobile application.
+I am continuously working on maintaining and developing games. I am also honing my web and mobile app development skills, both in regards to frontend and backend. Right now I am in the process of maintaining my game projects and developing web applications.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexrajo&count_private=true&show_icons=true&theme=tokyonight) -->
 <br/>
