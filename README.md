@@ -1,6 +1,6 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=alexrajo.alexrajo) -->
 
-Hello! I am a 21 year old CS student with a passion for game, web and mobile app development.
+Hello! I am a 22 year old CS student with a passion for game, web and mobile app development.
 
 #### What am I doing right now?
 I am continuously working on maintaining and developing games. I am also honing my web and mobile app development skills, both in regards to frontend and backend. Right now I am in the process of maintaining my game projects and developing web applications.
