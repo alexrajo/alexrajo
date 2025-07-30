@@ -1,9 +1,9 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=alexrajo.alexrajo) -->
 
-Hello! I am a 22 year old CS student with a passion for game, web and mobile app development.
+Hello! I am a 22 year old CS student, studying towards an masters with a specialization in AI.
 
 #### What am I doing right now?
-I am continuously working on maintaining and developing games. I am also honing my web and mobile app development skills, both in regards to frontend and backend. Right now I am in the process of maintaining my game projects and developing web applications.
+Reading about OpenGL, trying to get into graphics programming and building my knowledge of working with graphics cards up from the ground level.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexrajo&count_private=true&show_icons=true&theme=tokyonight) -->
 <br/>
