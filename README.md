@@ -22,4 +22,4 @@ Reading about OpenGL, trying to get into graphics programming and building my kn
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Burger%20King-D62300?style=for-the-badge&logo=Burger%20King&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexrajo&count_private=true&show_icons=true&theme=transparent)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexrajo&count_private=true&show_icons=true&theme=transparent) -->
