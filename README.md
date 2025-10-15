@@ -1,6 +1,6 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=alexrajo.alexrajo) -->
 
-Hello! I am a 23 year old CS student, studying towards an masters with a specialization in AI.
+Hello! I am a 23 year old CS student, studying towards a masters with a specialization in AI.
 
 #### What am I doing right now?
 Reading about OpenGL, trying to get into graphics programming and building my knowledge of working with graphics cards up from the ground level.
